@@ -242,7 +242,7 @@ body {
 .right_bar__homework__list {
   display: flex;
   flex-direction: column;
-  height: 150px;
+  height: 70px;
   flex-wrap: wrap;
   align-content: space-around;
 }
@@ -272,7 +272,7 @@ body {
 /* Right bar PET-PROJECTS */
 
 .right_bar__petproject {
-  margin: 35px 33px 0 33px;
+  margin: 15px 33px 0 33px;
 }
 
 .right_bar__petprojects__list {
